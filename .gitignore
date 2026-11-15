@@ -1,1 +1,7 @@
 .vercel
+onedrive-sync-check-*.txt
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
